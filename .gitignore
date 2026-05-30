@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.venv/
+my_env/
+fails.json
+poetry.lock
