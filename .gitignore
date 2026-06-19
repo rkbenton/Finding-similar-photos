@@ -6,3 +6,4 @@ __pycache__/
 my_env/
 fails.json
 poetry.lock
+uv.lock

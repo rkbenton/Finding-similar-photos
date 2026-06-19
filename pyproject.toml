@@ -8,6 +8,15 @@ dependencies = [
     "pillow>=11.0.0",
 ]
 
+[project.optional-dependencies]
+test = [
+    "pytest>=8.0.0",
+]
+
+[tool.pyright]
+venvPath = "."
+venv = ".venv"
+
 [tool.uv]
 package = false
 exclude-newer = "2026-06-05T00:00:00Z"
