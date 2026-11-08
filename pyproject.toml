@@ -3,7 +3,7 @@ name = "image-similarity"
 version = "0.1.0"
 description = "Find similar images."
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.11"
 dependencies = [
     "pillow>=11.0.0",
 ]
