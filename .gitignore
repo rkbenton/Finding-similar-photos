@@ -7,3 +7,6 @@ my_env/
 fails.json
 poetry.lock
 uv.lock
+
+# Claude Code local settings (machine-specific, never commit)
+.claude/settings.local.json
